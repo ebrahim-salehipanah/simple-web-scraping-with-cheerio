@@ -35,7 +35,7 @@ This app allows you to scrape data from a website by entering the URL and select
 
 - express
 - cheerio
-- request
+- axios
 
 ## Contributing
 
