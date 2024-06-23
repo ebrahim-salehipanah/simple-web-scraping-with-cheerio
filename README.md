@@ -1,5 +1,4 @@
-
-# Web Scraping App
+# Simple web scraping with cheerio
 
 This is a simple web scraping app built using Express.
 
@@ -26,7 +25,7 @@ node index.js
 
 ```
 
-4.  Open your browser and navigate to  `http://localhost:3000`  to view the app.
+4.  Open your browser and navigate to `http://localhost:3000` to view the app.
 
 ## Usage
 
@@ -34,9 +33,9 @@ This app allows you to scrape data from a website by entering the URL and select
 
 ## Dependencies
 
--   express
--   cheerio
--   request
+- express
+- cheerio
+- request
 
 ## Contributing
 
